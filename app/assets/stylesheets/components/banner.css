@@ -3,7 +3,7 @@
 	border-radius: 4px;
 	background-size: 100% 500px;
 
-	background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 50%), url("img/singe.jpg");
+	background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 50%), url("/img/singe.jpg");
 	background-repeat: no-repeat;
 }
 
@@ -12,7 +12,7 @@
 	border-radius: 4px;
 	background-size: 100% 500px;
 
-	background-image: linear-gradient(125deg, rgba(80,20,50,0.8) 0%, rgba(0,0,0,0) 65%), url("img/coffee.jpeg");
+	background-image: linear-gradient(125deg, rgba(80,20,50,0.8) 0%, rgba(0,0,0,0) 65%), url("/img/coffee.jpeg");
 	background-repeat: no-repeat;
 }
 

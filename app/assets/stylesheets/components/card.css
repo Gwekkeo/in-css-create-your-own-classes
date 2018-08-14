@@ -11,7 +11,7 @@
 	flex-direction: column;
 	justify-content: space-between;
 
-	background-image: linear-gradient(135deg, rgba(0,20,50,0.8) 50%, rgba(0,0,0,0) 70%), url("img/rue.jpg");
+	background-image: linear-gradient(135deg, rgba(0,20,50,0.8) 50%, rgba(0,0,0,0) 70%), url("/img/rue.jpg");
 	color: white;
 }
 
