@@ -1,0 +1,38 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/dropdown.css");
+@import url("components/form.css");
+@import url("components/navbar.css");
+@import url("components/tabs.css");
+
+body{
+	font-family: monospace;
+	font-size: 18px;
+
+	display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+	background-color: pink;
+	margin: 0;
+	padding: 0;
+}
+
+button{
+	cursor: pointer;
+}
+
+footer{
+	display: flex;
+	justify-content: flex-end;
+}
+
+p{
+	word-wrap: break-word;
+}

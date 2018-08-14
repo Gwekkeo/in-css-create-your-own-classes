@@ -1,0 +1,29 @@
+.banner_singe{
+	border: 2px solid black;
+	border-radius: 4px;
+	background-size: 100% 500px;
+
+	background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 50%), url("img/singe.jpg");
+	background-repeat: no-repeat;
+}
+
+.banner_coffee{
+	border: 2px solid black;
+	border-radius: 4px;
+	background-size: 100% 500px;
+
+	background-image: linear-gradient(125deg, rgba(80,20,50,0.8) 0%, rgba(0,0,0,0) 65%), url("img/coffee.jpeg");
+	background-repeat: no-repeat;
+}
+
+.title-on-img-banner{
+	padding-top: 200px;	
+	text-align: center;
+
+	width: auto;
+	height: 200px;
+}
+
+.title-on-img-banner h1{
+	color: white;
+}

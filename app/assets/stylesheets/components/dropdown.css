@@ -1,0 +1,40 @@
+.dropdown{
+	margin: auto 0 auto auto;
+	padding: auto 0 auto auto;
+	display: inline-block; 
+	/*NE SERT A RIEN JE CROIS BIEN :)*/
+	box-shadow: none
+}
+
+.dropdown-btn{
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.dropdown-content{
+	display: none; /*ON CACHE LES LIENS DU DROPDOWN*/
+}
+
+.dropdown-content a{
+	display: block; /*LES LIENS SONT LES UN AU DESSUS DES AUTRES
+	COMME DES BLOCK ET NON SUR LA MÊME LIGNE*/
+	text-decoration: none;
+	background-color: #EEE;
+	border-radius: 1px;
+
+	width: 100px;
+	margin-left: 5px;
+	padding: 5px;
+
+	color: black;
+}
+
+.dropdown-content a:hover{
+	/*border: solid pink 2px;*/
+	text-decoration: underline blue;
+	background-color: #EFF;
+}
+
+.dropdown:hover .dropdown-content{
+	display: block;
+}
