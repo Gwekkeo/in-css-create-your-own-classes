@@ -1,16 +1,19 @@
 .avatar{
 	width: 150px;
+	max-height: 50px;
 	border-radius: 50%;
 	box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3);
 }
 
 .avatar-xs{
 	width: 40px;
+	max-height: 50px;
 	border-radius: 50%;
 	box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3);
 }
 
 .thumbnail{
+	max-height: 50px;
 	width: 150px;
 	border-radius: 0%;
 	box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3);
