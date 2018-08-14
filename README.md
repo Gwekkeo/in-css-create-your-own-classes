@@ -1,5 +1,5 @@
 ## Go lien App HEROKU:
-# https://app-crypto-en-ligne.herokuapp.com/
+# https://my-own-class.herokuapp.com/
 
 ## Voir mon code:
 ```
